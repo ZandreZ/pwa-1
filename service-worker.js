@@ -1,9 +1,9 @@
 var dataCacheName = 'feijao2';
 var cacheName = 'feijao2';
 var filesToCache = [
-  '/pwa/',
-  '/pwa/index.html',
-  '/pwa/styles/inline.css'
+  'index.html',
+  'styles/inline.css',
+  'manifest.json'
 ];
 
 self.addEventListener('install', function(e) {
