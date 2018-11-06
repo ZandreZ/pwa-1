@@ -1,5 +1,5 @@
-var dataCacheName = 'feijao2';
-var cacheName = 'feijao2';
+var dataCacheName = 'novofeijao';
+var cacheName = 'novofeijao';
 var filesToCache = [
   'index.html',
   'styles/inline.css',
