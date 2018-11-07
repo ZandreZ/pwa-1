@@ -10,7 +10,7 @@ if (typeof files == 'undefined') {
   files.push('./');
 }
 
-var CACHE_NAME = 'shopping-v13';
+var CACHE_NAME = 'feijao-v1';
 
 self.addEventListener('activate', function(event) {
   console.log('[SW] Activate');
